@@ -1,6 +1,6 @@
 # Bienvenida
 ### Esto es una prueba de subtitulo
->Las rosas son rosas -Anonimo
+**Esto aparecerá en negrita**
 
 Guía de prácticas de la asignatura Evolución y Mantenimiento del Software
 
