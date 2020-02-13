@@ -3,7 +3,7 @@
 
 **Esto aparecerá en negrita**
 
-[Link a google](https:\\www.google.com)
+[Link a google](https://www.google.com/)
 
 Guía de prácticas de la asignatura Evolución y Mantenimiento del Software
 
